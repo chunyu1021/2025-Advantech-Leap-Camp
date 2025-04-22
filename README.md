@@ -14,7 +14,7 @@ Edge Agent [Github](https://github.com/advantech-EdgeAI/edge_agent) is the place
 - **Watch YouTube videos in the repo**
   - [Promoting Video](https://www.youtube.com/watch?v=xsvGXlDslf0)
   - [Quick Introduction Video](https://www.youtube.com/watch?v=P6T5xecStjk)
-  - [Start a Quick Demo](https://www.youtube.com/watch?v=XNr-aNQwoPc)
+  - [Start a Quick Demo Project](https://www.youtube.com/watch?v=XNr-aNQwoPc)
 - **Star the repo for quick referencing** ⭐
 - **Try to follow the instructions to install Edge Agent**  
   👉 Common Pitfalls and Tips for Installation
