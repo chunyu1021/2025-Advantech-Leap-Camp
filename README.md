@@ -52,7 +52,7 @@ Edge Agent [Github](https://github.com/advantech-EdgeAI/edge_agent) is the place
   - Press "Ctrl + D" to continue entering system
   - Remove a redundant file (`sudo rm -rf /etc/udev/rules.d/70-nvme.rules`)
 - To start Edge Agent:
-  - By script: bash startEA.sh
+  - By script: `bash startEA.sh`
   - [Manually](https://github.com/advantech-EdgeAI/edge_agent?tab=readme-ov-file#optional-start-edge-agent-manually)
 - Plug in your USB camera before you start the Edge Agent.
 - Use Chrome (or Chromium) to run Edge Agent
