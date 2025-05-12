@@ -20,7 +20,9 @@ Edge Agent [Github](https://github.com/advantech-EdgeAI/edge_agent) is the place
 - **Try to follow the instructions to install Edge Agent**  
   👉 Tips and Pitfalls for Installing Edge Agent
 - **Try preset projects in Edge Agent with the guidance in Wiki**  
-  👉 Quick Demo Project – Factory Outfit Detection
+  👉 Factory Outfit Detection  
+  👉 Clearance Space Detection
+
 - **Ask your question by creating an issue**  
   👉 How to Ask Questions on Edge Agent GitHub
 
@@ -57,9 +59,10 @@ Edge Agent [Github](https://github.com/advantech-EdgeAI/edge_agent) is the place
 - Plug in your USB camera before you start the Edge Agent.
 - Use Chrome (or Chromium) to run Edge Agent
 
-## Quick Demo Project – Factory Outfit Detection
+## Quick Demo Projects
 
-Reference: https://github.com/advantech-EdgeAI/edge_agent/wiki/Factory-Outfit-Detection
+- [Factory Outfit Detection](https://github.com/advantech-EdgeAI/edge_agent/wiki/Factory-Outfit-Detection)
+- [Clearance Space Detection](https://github.com/advantech-EdgeAI/edge_agent/wiki/Clearance-Space-Detection)
 
 ## How to Ask Questions on Edge Agent GitHub
 
