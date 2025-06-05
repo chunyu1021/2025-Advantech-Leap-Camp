@@ -4,7 +4,8 @@ Welcome to the session! Let's learn about Advantech Edge Agent 🚀
 
 - **Speaker**: Chun-Yu Chen, Edge AI Senior Solution Engineer
 - **Organization**: Edge Server Group, IIoT, Advantech
-- **Time**: 10:10 ~ 11:10, 13th May, 2025 
+- **Time**: 10:10 ~ 11:10, 13th May, 2025
+- **Recording**: [YouTube Video](https://youtu.be/Z3mp8ZOjV1w)
 
 ## Advantech Edge Agent GitHub
 
