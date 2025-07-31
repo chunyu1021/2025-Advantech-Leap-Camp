@@ -41,7 +41,7 @@ Edge Agent [Github](https://github.com/advantech-EdgeAI/edge_agent) is the place
   - Edge Agent and most of its components are running in Docker containers.
 - Why we need to migrate Docker directory to SSD?
   - Models will be downloaded to Docker directory while using Edge Agent. We use extra SSD to hold the storage-demanding Docker directory.
-- [Highly recommended verifying Docker directory is moving to SSD](https://github.com/advantech-EdgeAI/edge_agent/wiki/Test-Docker-on-SSD)
+- [Highly recommended verifying Docker directory is moving to SSD](https://github.com/advantech-EdgeAI/edge_agent/issues/5)
 - "Download Essential Data" will take 5 to 10 minutes, be patient.
 - Essential Data includes:
   - Demo data (images, videos, etc.)
@@ -55,14 +55,14 @@ Edge Agent [Github](https://github.com/advantech-EdgeAI/edge_agent) is the place
   - Remove a redundant file (`sudo rm -rf /etc/udev/rules.d/70-nvme.rules`)
 - To start Edge Agent:
   - By script: `bash startEA.sh`
-  - [Manually](https://github.com/advantech-EdgeAI/edge_agent?tab=readme-ov-file#optional-start-edge-agent-manually)
+  - [Manually](https://github.com/advantech-EdgeAI/edge_agent/issues/7)
 - Plug in your USB camera before you start the Edge Agent.
 - Use Chrome (or Chromium) to run Edge Agent
 
 ## Quick Demo Projects
 
-- [Factory Outfit Detection](https://github.com/advantech-EdgeAI/edge_agent/wiki/Factory-Outfit-Detection)
-- [Clearance Space Detection](https://github.com/advantech-EdgeAI/edge_agent/wiki/Clearance-Space-Detection)
+- [Factory Outfit Detection](https://github.com/advantech-EdgeAI/edge_agent/wiki/03.03-preset-projects#33factory-outfit-detection)
+- [Clearance Space Detection](https://github.com/advantech-EdgeAI/edge_agent/wiki/03.05-preset-projects#35clearance-space-detection)
 
 ## How to Ask Questions on Edge Agent GitHub
 
